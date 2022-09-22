@@ -10,3 +10,4 @@ All of the following folders are projects done during the studies:
 | ------------ | ----------- |
 [`0x00-python-hello_world`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x00-python-hello_world) | Learning introduction to Python, basics commands and compilation. |
 [`0x01-python-if_else_loops_functions`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions) |Learning `if`, `if ... else` statements, `while` and `for` loops, `break` and `continues` statements and how to use functions.  |
+[`0x02-python-import_modules`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x02-python-import_modules) |Learning importing functions, creating modules and using built-in function `dir()`.  |
