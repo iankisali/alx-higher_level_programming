@@ -16,3 +16,5 @@ All of the following folders are projects done during the studies:
 [`0x05-Python - Exceptions`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x05-python-exceptions) |Learning syntax errors, exceptions, handling and raising exceptions as well as exception chaining.  |
 [`0x06-python-classes`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x06-python-classes) |Introduction into Object Oriented Programming in Python.  |
 [`0x07-python-test_driven_development`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x07-python-test_driven_development) |Introduction into test driven development in Python using doctest.  |
+[`0x08-python-more_classes`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x08-python-more_classes) |More projects on Classes and Objects - __str__ and __repr__, destructor and attributes. |
+[`0x09-python-everything_is_object`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x09-python-everything_is_object) |Learning Objects and values, Aliasing and Cloning Lists in Python. |
