@@ -18,3 +18,4 @@ All of the following folders are projects done during the studies:
 [`0x07-python-test_driven_development`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x07-python-test_driven_development) |Introduction into test driven development in Python using doctest.  |
 [`0x08-python-more_classes`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x08-python-more_classes) |More projects on Classes and Objects - __str__ and __repr__, destructor and attributes. |
 [`0x09-python-everything_is_object`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x09-python-everything_is_object) |Learning Objects and values, Aliasing and Cloning Lists in Python. |
+[`0x0A-python-inheritance`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x0A-python-inheritance) |Learning inheritance in Python. |
