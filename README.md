@@ -19,3 +19,4 @@ All of the following folders are projects done during the studies:
 [`0x08-python-more_classes`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x08-python-more_classes) |More projects on Classes and Objects - __str__ and __repr__, destructor and attributes. |
 [`0x09-python-everything_is_object`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x09-python-everything_is_object) |Learning Objects and values, Aliasing and Cloning Lists in Python. |
 [`0x0A-python-inheritance`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x0A-python-inheritance) |Learning inheritance in Python. |
+[`0x0B-python-input_output`](https://github.com/iankisali/alx-higher_level_programming/tree/master/0x0B-python-input_output) |Learning file handling in Python using builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.. |
