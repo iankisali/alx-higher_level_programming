@@ -1,30 +1,34 @@
 #!/usr/bin/node
 
 const request = require('request');
-const id = process.argv[2];
-const url = `https://swapi.dev/api/films/${id}/`;
-let chars = [];
+
+const movieId = process.argv[2];
+const url = `https://swapi.dev/api/films/${movieId}/`;
+let characters = [];
 
 request(url, (error, response, body) => {
   if (error) {
     console.log(error);
     return;
   }
+
   const data = JSON.parse(body);
-  chars = data.characters;
+  characters = data.characters;
   getCharacters(0);
 });
+
 const getCharacters = (index) => {
-  if (index === chars.length) {
+  if (index === characters.length) {
     return;
   }
-  request(chars[index], (error, response, body) => {
+
+  request(characters[index], (error, response, body) => {
     if (error) {
       console.log(error);
       return;
     }
-    const charData = JSON.parse(body);
-    console.log(charData.name);
+    const characterData = JSON.parse(body);
+    console.log(characterData.name);
     getCharacters(index + 1);
   });
 };
